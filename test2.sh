@@ -10,7 +10,8 @@ difference=$((num1 - num2))
 echo "Difference of $num1 and $num2 = $difference"
 product=$((num1 * num2))
 echo "Product of $num1 and $num2 = $product"
-# division=$((num1 / num2))
+division=$((num2 / num1))
+echo "Division of $num2 and $num1 = $division"
 # remainder=$((num1 % num2))
 
 # Displaying the results
