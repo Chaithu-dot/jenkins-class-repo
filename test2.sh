@@ -12,7 +12,8 @@ product=$((num1 * num2))
 echo "Product of $num1 and $num2 = $product"
 division=$((num2 / num1))
 echo "Division of $num2 and $num1 = $division"
-# remainder=$((num1 % num2))
+remainder=$((num1 % num2))
+echo "remainder of $num1 and $num2 = $remainder"
 
 # Displaying the results
 # echo "Sum: $sum"
