@@ -16,6 +16,7 @@ remainder=$((num1 % num2))
 echo "remainder of $num1 and $num2 = $remainder"
 echo "These all are arithemetic operations"
 echo "Hello everyone"
+echo "bye everyone"
 
 # Displaying the results
 # echo "Sum: $sum"
